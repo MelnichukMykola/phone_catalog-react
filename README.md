@@ -33,15 +33,5 @@ This project was created as part of the [Mate Academy](https://mate.academy) Ful
 git clone https://github.com/your-username/phone-catalog.git
 cd phone-catalog
 
-### 2. Install dependencies
 
-npm install
-# or
-yarn install
-
-### 3. Run the project locally
-
-npm start
-# or
-yarn start
 
