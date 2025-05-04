@@ -34,19 +34,19 @@ git clone https://github.com/futdevelop/phone_catalog-react.git
 cd phone-catalog
 ```
 
-### 2. Встановлення залежностей
+### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Запуск у режимі розробки
+### 3. Run in development mode
 
 ```bash
 npm run dev
 ```
 
-### 4. Продакшн збірка
+### 4. Build for production
 
 ```bash
 npm run build
