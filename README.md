@@ -5,7 +5,7 @@ This project was created as part of the [Mate Academy](https://mate.academy) Ful
 
 ## 🔗 Live Demo
 
-[Click here to view the live site](https://futdevelop.github.io/react_phone-catalog)
+[Click here to view the live site](https://futdevelop.github.io/phone_catalog-react)
 
 ## 🎨 Design Reference
 
@@ -30,8 +30,24 @@ This project was created as part of the [Mate Academy](https://mate.academy) Ful
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/phone-catalog.git
+git clone https://github.com/futdevelop/phone_catalog-react.git
 cd phone-catalog
+```
 
+### 2. Встановлення залежностей
 
+```bash
+npm install
+```
 
+### 3. Запуск у режимі розробки
+
+```bash
+npm run dev
+```
+
+### 4. Продакшн збірка
+
+```bash
+npm run build
+```

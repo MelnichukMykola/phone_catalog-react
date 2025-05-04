@@ -51,7 +51,7 @@
     "vite": "^5.3.1"
   },
   "scripts": {
-    "start": "mate-scripts start -l",
+    "dev": "mate-scripts start -l",
     "build": "mate-scripts build",
     "style-format": "npx stylelint 'src/**/*.scss' --fix --allow-empty-input",
     "lint-js": "mate-scripts lint -j",
@@ -61,7 +61,7 @@
     "update": "mate-scripts update",
     "postinstall": "npm run update && cypress verify",
     "predeploy": "npm run build",
-    "deploy": "mate-scripts deploy"
+    "deploy": "gh-pages -d dist"
   },
   "browserslist": {
     "production": [
